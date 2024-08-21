@@ -1,4 +1,4 @@
-# chap_app DEMO
+# chat_app DEMO
 
 This app utilizes the GPT API, delivering a natural chat experience. With your API key, you have the freedom to choose between GPT3 and GPT4! If you want to adjust the accuracy of the conversation, a token count adjustment feature is also available for your convenience.
 
