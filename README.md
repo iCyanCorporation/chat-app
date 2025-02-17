@@ -1,4 +1,4 @@
-# chat_app DEMO
+# chat-app
 
 This app utilizes the GPT API, delivering a natural chat experience. With your API key, you can choose different model version from openai gpt! If you want to adjust the accuracy of the conversation, a token count adjustment feature is also available for your convenience.
 
