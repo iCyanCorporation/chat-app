@@ -1,6 +1,6 @@
 # chat_app DEMO
 
-This app utilizes the GPT API, delivering a natural chat experience. With your API key, you have the freedom to choose between GPT3 and GPT4! If you want to adjust the accuracy of the conversation, a token count adjustment feature is also available for your convenience.
+This app utilizes the GPT API, delivering a natural chat experience. With your API key, you can choose different model version from openai gpt! If you want to adjust the accuracy of the conversation, a token count adjustment feature is also available for your convenience.
 
 🧠 Using the app's memory feature, you can maintain the flow of conversation. Additionally, the ability to visualize the number of tokens used and delete conversation content enables you to fully control the use of the app.
 
